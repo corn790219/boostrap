@@ -1,0 +1,21 @@
+:root{
+    --Morandi-light01:#8E9BAE;
+    --Morandi-light02:#7D6252;
+    --Morandi-light03:#CFC3BC;
+    
+}
+
+
+.bg-m01{background-color: var(--Morandi-light01);}
+.bg-m02{background-color: var(--Morandi-light02);}
+.bg-m03{background-color: var(--Morandi-light03);}
+
+.fw-100{
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.imgs{
+    width: 500px;
+    height: 500px;
+}
